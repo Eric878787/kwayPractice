@@ -1,0 +1,6 @@
+framework module Pods_kway_practice {
+  umbrella header "Pods-kway_practice-umbrella.h"
+
+  export *
+  module * { export * }
+}
